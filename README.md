@@ -27,3 +27,5 @@ Note
 This project is based on real-world data collected from a physical sensor setup. The DHT11 sensor was used to record temperature and humidity readings, which were then processed by a machine learning model implemented on an ML development kit.
 
 This project was fully developed by AUI students (Abdellahi Beddi, Diae Alaoui Soulaimani and Malak Errifai) for Machine Learning course supervised by Dr. Yousra Chtouki
+
+License: MIT (https://img.shields.io/badge/License-MIT-yellow.svg)
